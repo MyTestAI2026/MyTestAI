@@ -1,0 +1,6 @@
+{
+  "name": "Contact Landing Page",
+  "description": "A clean, mobile-optimized landing page with quick action buttons for WhatsApp messaging and direct voice calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
